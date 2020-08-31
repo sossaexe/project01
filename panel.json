@@ -1,0 +1,14 @@
+{"Panel": {
+    "oferta1": {
+        "mombre": "oferta1",
+        "foto": "foto1",
+        "link": "link1",
+        "descripcion": "detalles"
+    },
+    "oferta2": { 
+         "mombre": "oferta1",
+        "foto": "foto1",
+        "link": "link1",
+        "descripcion": "detalles"
+    }
+}}    
